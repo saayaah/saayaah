@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Saaya 👋
 
-<!--
-**saayaah/saayaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Developer | Mangalore, India
 
-Here are some ideas to get you started:
+I'm a BCA student interested in software development and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects, learning new technologies, and improving my problem-solving and development skills. Currently, I'm focusing on Python, web development, backend development, and exploring modern technologies.
+
+---
+
+## About Me
+
+-  BCA Student
+-  Interested in Software Development
+-  Currently learning Python, backend development, and modern web technologies
+-  I enjoy building projects to learn and solve practical problems
+-  Open to internships, collaborations, and learning opportunities
+
+---
+
+## Skills
+
+### Languages
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Backend
+- Python
+- Django
+- Node.js
+- Express.js
+
+### Database
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## What I Can Do
+
+- Build responsive websites
+- Develop frontend applications using React
+- Create backend APIs
+- Work with databases
+- Build full-stack web applications
+- Use Git and GitHub for version control
+- Learn and implement new technologies through projects
+
+
+## Currently Learning
+
+- Python
+- Django
+- FastAPI
+- React
+- Backend Development
+- Data Structures & Algorithms
+- Cloud & AWS Technologies
+- AI and Generative AI
+
+---
+## Take a look on my projects
+## Let's Connect
